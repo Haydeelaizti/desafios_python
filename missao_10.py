@@ -1,4 +1,4 @@
-
+# Contando Letras
 
 def contagem():
     nome = str(input("Digite um nome que contarei a quantidade de letras: "))
